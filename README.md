@@ -1,9 +1,10 @@
 # Hi, I'm Kaviya 👋
 
-BCA graduate, aspiring Full Stack Developer, currently learning by building.
+BCA graduate, currently doing a Python Full Stack Development course in Chennai — learning by building real projects along the way.
 
-- 🌱 Learning: HTML, CSS, JavaScript, Python, and working my way toward React
+- 🎓 Course progress so far: HTML, CSS, Tailwind CSS, JavaScript ✅ — currently learning **React**, with Python, Django, and databases coming up next
 - 🛠️ I like turning small ideas into finished, working projects
+- 💼 **Open to job opportunities** — Full Stack / Frontend Developer roles (on-site, hybrid, or remote)
 - 📫 Reach me at: kaviyaskavi88@gmail.com
 
 ---
@@ -26,8 +27,8 @@ A 3-in-1 time app — live clock, stopwatch with laps, and a countdown timer.
 
 ## 🧰 Tech I've worked with
 
-`HTML5` `CSS3` `JavaScript` `Python`
+`HTML5` `CSS3` `Tailwind CSS` `JavaScript` `React (learning)` `Python`
 
 ---
 
-⭐️ More projects on the way as I keep learning.
+⭐️ More projects on the way as I keep learning — currently building with React.
