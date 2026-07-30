@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Kaviya 👋
 
-<!--
-**kaviya-ux/kaviya-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BCA graduate, aspiring Full Stack Developer, currently learning by building.
 
-Here are some ideas to get you started:
+- 🌱 Learning: HTML, CSS, JavaScript, Python, and working my way toward React
+- 🛠️ I like turning small ideas into finished, working projects
+- 📫 Reach me at: kaviyaskavi88@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Projects
+
+### [Space Explorer](https://github.com/kaviya-ux/space-explorer)
+A single-page educational site touring our solar system — planets, missions, and a bit of space history. Built with HTML & CSS only, no frameworks.
+🔗 [Live demo](https://kaviya-ux.github.io/space-explorer/)
+
+### [Calculator](https://github.com/kaviya-ux/calculator)
+A simple calculator with keyboard support, built with vanilla JavaScript.
+🔗 [Live demo](https://kaviya-ux.github.io/calculator/)
+
+### [Clock / Stopwatch / Timer](https://github.com/kaviya-ux/clock-stopwatch-timer)
+A 3-in-1 time app — live clock, stopwatch with laps, and a countdown timer.
+🔗 [Live demo](https://kaviya-ux.github.io/clock-stopwatch-timer/)
+
+---
+
+## 🧰 Tech I've worked with
+
+`HTML5` `CSS3` `JavaScript` `Python`
+
+---
+
+⭐️ More projects on the way as I keep learning.
