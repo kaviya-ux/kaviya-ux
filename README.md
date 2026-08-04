@@ -11,7 +11,7 @@ BCA graduate, currently doing a Python Full Stack Development course in Chennai 
 
 ## 🚀 Projects
 
-### [Mobile World]
+### [Mobile World](https://github.com/kaviya-ux/mobile-world.git)
 A responsive smartphone information website built using HTML, CSS, Tailwind CSS, JavaScript. Phone World helps users explore smartphones by budget, performance, camera, and battery in a clean and modern interface.
 🔗 [Live demo](https://kaviya-ux.github.io/mobile-world/)
 
