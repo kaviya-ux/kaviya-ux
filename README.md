@@ -12,7 +12,7 @@ BCA graduate, currently doing a Python Full Stack Development course in Chennai 
 ## 🚀 Projects
 
 ### [Mobile World]
-A simple calculator with keyboard support, built with vanilla JavaScript.
+A responsive smartphone information website built using HTML, CSS, Tailwind CSS, JavaScript. Phone World helps users explore smartphones by budget, performance, camera, and battery in a clean and modern interface.
 🔗 [Live demo](https://kaviya-ux.github.io/calculator/)
 
 ### [Space Explorer](https://github.com/kaviya-ux/space-explorer)
