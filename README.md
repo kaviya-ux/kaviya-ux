@@ -13,7 +13,7 @@ BCA graduate, currently doing a Python Full Stack Development course in Chennai 
 
 ### [Mobile World]
 A responsive smartphone information website built using HTML, CSS, Tailwind CSS, JavaScript. Phone World helps users explore smartphones by budget, performance, camera, and battery in a clean and modern interface.
-🔗 [Live demo](https://kaviya-ux.github.io/calculator/)
+🔗 [Live demo](https://kaviya-ux.github.io/mobile-world/)
 
 ### [Space Explorer](https://github.com/kaviya-ux/space-explorer)
 A single-page educational site touring our solar system — planets, missions, and a bit of space history. Built with HTML & CSS only, no frameworks.
