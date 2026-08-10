@@ -28,7 +28,7 @@ A 3-in-1 time app — live clock, stopwatch with laps, and a countdown timer.
 
 ## 🧰 Tech I've worked with
 
-`HTML5` `CSS3` `Tailwind CSS` `JavaScript` `React (learning)` `Python`
+`HTML5` `CSS3` `Tailwind CSS` `JavaScript` `React` `Python (learning)`
 
 ---
 
