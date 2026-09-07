@@ -20,10 +20,6 @@ A single-page educational site touring our solar system — planets, missions, a
 🔗 [Live demo](https://kaviya-ux.github.io/space-explorer/)
 
 
-### [Clock / Stopwatch / Timer](https://github.com/kaviya-ux/clock-stopwatch-timer)
-A 3-in-1 time app — live clock, stopwatch with laps, and a countdown timer.
-🔗 [Live demo](https://kaviya-ux.github.io/clock-stopwatch-timer/)
-
 ---
 
 ## 🧰 Tech I've worked with
