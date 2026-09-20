@@ -24,7 +24,7 @@ A single-page educational site touring our solar system — planets, missions, a
 
 ## 🧰 Tech I've worked with
 
-`HTML5` `CSS3` `Tailwind CSS` `JavaScript` `React` `Python``mysql`
+`HTML5` `CSS3` `Tailwind CSS` `JavaScript` `React` `Python` `mysql`
 ---
 
 ⭐️ More projects on the way as I keep learning — currently building with React.
